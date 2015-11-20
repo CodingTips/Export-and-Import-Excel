@@ -1,0 +1,13 @@
+E:\MyProject\AzureDocumentDB\Read And Write Exce File\Read And Write Exce File\bin\Debug\Read And Write Exce File.exe.config
+E:\MyProject\AzureDocumentDB\Read And Write Exce File\Read And Write Exce File\bin\Debug\Read And Write Exce File.exe
+E:\MyProject\AzureDocumentDB\Read And Write Exce File\Read And Write Exce File\bin\Debug\Read And Write Exce File.pdb
+E:\MyProject\AzureDocumentDB\Read And Write Exce File\Read And Write Exce File\bin\Debug\EPPlus.dll
+E:\MyProject\AzureDocumentDB\Read And Write Exce File\Read And Write Exce File\bin\Debug\Excel.4.5.dll
+E:\MyProject\AzureDocumentDB\Read And Write Exce File\Read And Write Exce File\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\MyProject\AzureDocumentDB\Read And Write Exce File\Read And Write Exce File\bin\Debug\Excel.4.5.pdb
+E:\MyProject\AzureDocumentDB\Read And Write Exce File\Read And Write Exce File\obj\Debug\Read And Write Exce File.csprojResolveAssemblyReference.cache
+E:\MyProject\AzureDocumentDB\Read And Write Exce File\Read And Write Exce File\obj\Debug\Read_And_Write_Exce_File.Form1.resources
+E:\MyProject\AzureDocumentDB\Read And Write Exce File\Read And Write Exce File\obj\Debug\Read_And_Write_Exce_File.Properties.Resources.resources
+E:\MyProject\AzureDocumentDB\Read And Write Exce File\Read And Write Exce File\obj\Debug\Read And Write Exce File.csproj.GenerateResource.Cache
+E:\MyProject\AzureDocumentDB\Read And Write Exce File\Read And Write Exce File\obj\Debug\Read And Write Exce File.exe
+E:\MyProject\AzureDocumentDB\Read And Write Exce File\Read And Write Exce File\obj\Debug\Read And Write Exce File.pdb
